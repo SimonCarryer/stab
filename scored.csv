@@ -1,0 +1,13 @@
+,Stabber,Range,Knife,Score
+"""He picked up the knife and stabbed me.""",1,0,1,0.981132075
+"""I tripped and fell, and the knife on the floor stabbed me.""",0,0,1,0
+"""There was an arrow wedged in the floor, and I got stabbed when I fell into it.""",0,0,0,0.094339623
+"""The knife fell off the counter, and stabbed my foot.""",0,0,1,0.603773585
+"""I got stabbed by a knife that was lying on the floor.""",0,0,1,-0.057692308
+"""I was stabbed by a falling arrow.""",0,1,0,-0.403846154
+"""He threw the knife, which spun across the room and stabbed me.""",0,1,1,0.153846154
+"""He picked up an arrow from the ground, and stabbed me with it.""",1,0,0,0.923076923
+"""The archers in the treetops stabbed me with arrows from their bows.""",1,1,0,-0.679245283
+"""He stabbed me by throwing the knife at me.""",1,1,1,-0.245283019
+"""I was inadvertently stabbed as we tussled.""",1,0,0,0.886792453
+"""The soldiers hurled their spears at me, stabbing me several times.""",1,1,0,0.075471698
